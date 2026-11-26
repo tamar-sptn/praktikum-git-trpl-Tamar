@@ -3,3 +3,4 @@
 Proyek TypeScript sederhana untuk latihan version control.
 
 Status proyek: latihan dasar Git.
+README
